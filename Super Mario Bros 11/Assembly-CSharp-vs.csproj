@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{F8C79C72-0C24-B08C-242D-D1D082EE02F8}</ProjectGuid>
+	<ProjectGuid>{56FABCEB-3AF8-51F6-C742-DAA5703927D9}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,13 +46,13 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\FlagScript.cs" />
      <Compile Include="Assets\Scripts\Audio.cs" />
      <Compile Include="Assets\Scripts\CoinBlocks.cs" />
      <Compile Include="Assets\Scripts\Ctrl.cs" />
      <Compile Include="Assets\Scripts\EnemyAI.cs" />
      <Compile Include="Assets\Scripts\EnemyDead.cs" />
      <Compile Include="Assets\Scripts\EnemyVsMarioBig.cs" />
-     <Compile Include="Assets\Scripts\FlagScript.cs" />
      <Compile Include="Assets\Scripts\FõrSpill.cs" />
      <Compile Include="Assets\Scripts\Kontroller2D.cs" />
      <Compile Include="Assets\Scripts\LvlLoader.cs" />
