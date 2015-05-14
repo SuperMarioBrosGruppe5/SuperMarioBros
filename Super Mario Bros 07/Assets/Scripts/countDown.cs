@@ -1,12 +1,10 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-using System.Collections;
 
 public class countDown : MonoBehaviour {
 
 	private float timeFloat = 399;
 	public Text timer;
-	int score = 000000;
 	int time = 0;
 
 
