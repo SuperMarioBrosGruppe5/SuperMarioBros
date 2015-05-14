@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LvlLoader.cs">
+    <Files>
+      <File FileName="Assets\Scripts\LvlLoader.cs" Line="18" Column="39" />
+      <File FileName="Assets\Scripts\Spiller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Kontroller2D.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Ctrl.cs" Line="24" Column="65" />
+      <File FileName="Assets\Scripts\FørSpill.cs" Line="13" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
